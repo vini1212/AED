@@ -1,2 +1,2 @@
 # AED
-Trabalhos de Algoritmo e Estrutura de Dados 1
+Repositorio desenvolvido para implementações de estrutura de dados
